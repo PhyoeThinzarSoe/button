@@ -1,0 +1,109 @@
+.b1{
+    background-color: aqua;
+    border-radius: 4px;
+    border-color: aqua;
+    color: white;
+}
+.b2{
+    background-color: grey;
+    border-radius: 4px;
+    border-color:grey;
+    color: white;
+    
+}
+.b3{
+    background-color:green;
+    border-radius: 4px;
+    border-color:green;
+    color: white;
+}
+.b4{
+    background-color:blue; 
+    border-radius: 4px;
+    border-color: blue;
+    color: white;
+}
+.b5{
+    background-color:yellow;
+    border-radius: 4px;
+    border-color:yellow;
+    color: white;
+}
+.b6{
+    background-color: red;
+    border-radius: 4px;
+    border-color: red;
+    color: white;
+}
+.b7{
+    background-color: aqua;
+    border-radius: 4px;
+    border-color: aqua;
+    border-radius: 18px;
+    color: white;
+}
+.b8{
+    background-color: aqua;
+    border-radius: 18px;
+    border-color:aqua;
+    color: white;
+}
+.b10{
+    border-top: 2px dashed aqua;
+    border-bottom: 2px dashed aqua;
+    border-left: 2px dashed aqua;
+    border-right: 2px dashed aqua;
+    width: 6%;
+    color:aqua;
+    
+}
+.b11{
+    background-color: aqua;
+    border-radius: 18px;
+    border-color:aqua;
+    color: white;
+}
+.b12{
+    background-color: aqua;
+    border-radius: 18px;
+    border-color:aqua;
+    color: white;
+}
+.b13{
+    
+    
+    border-color:aqua;
+    color: aqua;
+}
+.b14{
+    background-color: aqua;
+    border-color:aqua;
+    color: white;
+}
+.b15{
+    
+    
+    border-color:aqua;
+    color: aqua;
+}
+.b18{
+    background-color: aqua;
+    border-radius: 18px;
+    border-color:aqua;
+    color: white;
+}
+.b19{
+    background-color: aqua;
+    border-radius: 4px;
+    border-color: aqua;
+    border-radius: 18px;
+    color: white;
+}
+.b20{
+    
+    
+    border-color:aqua;
+    color: aqua;
+}
+
+
